@@ -1,5 +1,5 @@
 # teamable
-This application is used for managing employee user profiles.
+This application is used for managing user profiles.
 
 ### To run the tests execute
 
