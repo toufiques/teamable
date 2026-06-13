@@ -8,3 +8,5 @@ This application is used for managing user profiles.
 ### To package the application execute
 
     npm pack
+
+    Application runs on port 3000
